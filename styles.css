@@ -1,0 +1,113 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #181818;
+    color: #ffffff;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .hero {
+    text-align: center;
+    padding: 60px 0;
+    background-color: #202020;
+  }
+  
+  .profile img {
+    border-radius: 50%;
+    width: 150px;
+  }
+  
+  h1 {
+    font-size: 36px;
+    margin: 20px 0;
+    color: #f8f8f8;
+  }
+  
+  p {
+    color: #bbbbbb;
+  }
+  
+  .social-links a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #f8f8f8;
+  }
+  
+  .cta {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #ffb100;
+    color: #000;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .services {
+    display: flex;
+    justify-content: space-between;
+    padding: 40px 0;
+    background-color: #242424;
+  }
+  
+  .services .service {
+    width: 30%;
+    text-align: center;
+    background-color: #303030;
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  .stats {
+    display: flex;
+    justify-content: space-between;
+    padding: 40px 0;
+  }
+  
+  .stats .stat {
+    text-align: center;
+    width: 45%;
+    background-color: #303030;
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  .projects {
+    padding: 60px 0;
+    background-color: #202020;
+  }
+  
+  .project-grid {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .project {
+    width: 45%;
+    background-color: #303030;
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  .project img {
+    width: 100%;
+    border-radius: 8px;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #181818;
+  }
+  
+  footer a {
+    color: #ffb100;
+    text-decoration: none;
+  }
+  
